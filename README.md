@@ -12,6 +12,12 @@ On the user side, MealMaster Suite offers an intuitive interface for browsing th
 * Backend: PHP <br>
 * Database: MySQL <br>
 
+## Login Credentials
+  * Staff Credentials
+     Username: starmess
+     Password: 12345
+
+
 ## Installation Steps
 1. Clone the Repository https://github.com/Mahadevprasad-DL/Meal-Master-Suite
 2. Set Up the Database
@@ -41,6 +47,7 @@ On the user side, MealMaster Suite offers an intuitive interface for browsing th
 
 3. USER DASHBOARD
  ![Screenshot (640)](https://github.com/user-attachments/assets/031c9e46-7872-4e15-925b-69957c27fa49)
+
 
 
 ## Contributing
