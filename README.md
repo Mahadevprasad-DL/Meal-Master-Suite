@@ -13,9 +13,9 @@ On the user side, MealMaster Suite offers an intuitive interface for browsing th
 * Database: MySQL <br>
 
 ## Login Credentials
-  * Staff Credentials
-     Username: starmess
-     Password: 12345
+  * Staff Credentials <br>
+     Username: starmess  <br>
+     Password: 12345     <br>
 
 
 ## Installation Steps
