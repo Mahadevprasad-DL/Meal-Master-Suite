@@ -33,6 +33,16 @@ On the user side, MealMaster Suite offers an intuitive interface for browsing th
 
 ## Screenshots
 
+1. HOME PAGE
+   ![Screenshot (638)](https://github.com/user-attachments/assets/ef7e4865-d738-4184-a3eb-ccf1aadd2584)
+
+2. STAFF DASHBOARD 
+ ![Screenshot (639)](https://github.com/user-attachments/assets/27582fd9-1ae4-4f1b-aa9a-1051442d3a50)
+
+3. USER DASHBOARD
+ ![Screenshot (640)](https://github.com/user-attachments/assets/031c9e46-7872-4e15-925b-69957c27fa49)
+
+
 ## Contributing
 Feel free to contribute to the project by forking the repository, making changes, and submitting a pull request.
 
